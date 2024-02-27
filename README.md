@@ -3,8 +3,8 @@ Telegram login button as a react component &amp; can be used into react or nextj
 
 
 # How to use
-1. Create a new file in your components folder and copy the code from telegramLoginWidget.tsx file
-2. See example usage in the example.tsx file
+1. Create a new file in your components folder and copy the code from [telegramLoginWidget3j.tsx](https://github.com/threej-in/telegram-login-button-react-component/blob/main/telegramLoginWidget3j.tsx) file
+2. See example usage in the [example.tsx](https://github.com/threej-in/telegram-login-button-react-component/blob/main/example.tsx) file
 
 
 # Testing locally
